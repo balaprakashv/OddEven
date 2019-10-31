@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/jeffhollan/functions-test-samples#readme",
   "dependencies": {
-    "axios": "^0.18.0"
+    "axios": "^0.18.1"
   },
   "devDependencies": {
     "mocha": "^5.2.0",
